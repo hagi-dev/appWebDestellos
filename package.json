@@ -1,12 +1,16 @@
 {
   "name": "appwebdesrtellos",
   "version": "1.0.0",
-  "description": "",
+  "description": "desarrollar un applicativo web para la polleria Destellos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
