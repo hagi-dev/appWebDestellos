@@ -46,16 +46,16 @@ ul.follow--list{
     height: 30px;
 }
 #ID_31 li .iconF{
-    content: url(../assets/img/iconos/facebook.svg);
+    content: url(/assets/img/iconos/facebook.svg);
 }
 #ID_31 li .iconI{
-    content: url(../assets/img/iconos/instagram.svg);
+    content: url(/assets/img/iconos/instagram.svg);
 }
 #ID_31 li .iconTw{
-    content: url(../assets/img/iconos/twitter.svg);
+    content: url(/assets/img/iconos/twitter.svg);
 }
 #ID_31 li .iconT{
-    content: url(../assets/img/iconos/tiktok.svg);
+    content: url(/assets/img/iconos/tiktok.svg);
 }
 /*31----------------------------*/
 

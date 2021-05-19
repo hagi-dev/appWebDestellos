@@ -1,0 +1,116 @@
+*{
+    
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* cabecera general para hacer modificaciones en la cabecera */
+.cabecera {
+    position: relative;
+    display: flex;
+    width:100%;
+    height: 10vh;
+    background-color: #392B28;
+    box-shadow: 0em 0 0.1em white;
+}
+main{
+    background-color: #392B28;
+    color: white;
+
+}
+/* relizamos stylos en la parte de la seccion menu de la cabecera */
+.cabecera__menu{
+    font-family: Helvetica;
+    display: flex;
+    width: 55vw;
+    margin: 3vh auto;
+    margin-right: 5px;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+/* realizamos stylos conjunto de lista desordenada de la cabecera parate menu */
+.cabecera__menu ul{
+    list-style: none;
+    text-align: center;
+    float:right
+}
+
+/* realizamos stylos en cada una que compone la lista */
+.cabecera__menu ul li{
+    display: inline-block;
+    font-size: 12px;
+    margin: 10px 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+}
+
+/* stylo hover a cada una de los componentes de la lista */
+.cabecera__menu ul li:hover{
+
+    border-top: 1.5px solid #fbf2c0;
+    border-bottom: 1.5px solid #fbf2c0;
+    
+}
+
+/* realizamos stylos en cada etiqueta de hipervinculo de cada uno de los componentes de
+de la lista deordenada de la parte nebu de la cabecera */
+.cabecera__menu ul li a{
+    font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+    text-decoration: none;
+    display:inline-block;
+    color: #fbf2c0;
+    
+}
+
+/* stylos parte de logo general de la cabecera */
+.cabecera__Logo{
+    width: 30vw;
+    height: 30vh;
+    margin-left:15px;
+    
+}
+
+/* stylos para la imagen de parte logo de la cabecera */
+.cabecera__Logo a img{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 25vh;
+    max-height: 25vh;
+    margin-top: 0.5vh;
+    margin-left: 8px;
+    float:left;
+    
+}
+
+
+/* stylos parte de login general de la cabecera */
+.cabecera__carritoCompras{
+    width:9vw;
+    font-family: monserrat;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top:3px;
+    
+}
+
+/* stylo para login parte inicio de secion */
+.cabecera__carritoCompras-img svg{
+    width:8vw;
+    height:8vh;
+    margin-right:3px;
+}
+#circulo{
+    fill:#392B28;
+}
+#carrito{
+    fill:#fbf2c0;
+}
+#circulo:hover {
+    fill:#8a6b64;
+}

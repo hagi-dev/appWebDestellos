@@ -1,0 +1,78 @@
+
+#ID_3{
+
+    display: flex;
+    width: 100%;
+    height: 40vh;
+    background-color: #b18b82;
+}
+#ID_3 h3{
+    font-size: 2rem;
+}
+#ID_3 p{
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+/*31----------------------------*/
+section#ID_31{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;    
+    align-self: center;
+    
+}
+/*331----------------------------*/
+#ID_31 .container-331{
+    width: 30%;
+    height: 100%;
+    
+}
+/*332----------------------------*/
+nav.follow{
+    width: 30%;
+    height: 100%;
+}
+ul.follow--list{
+    display: inline-flex;
+    list-style-type: none;
+}
+#ID_31 li{
+    margin-right: 10px;
+}
+.follow--list i{
+    width: 30px;
+    height: 30px;
+}
+#ID_31 li .iconF{
+    content: url(/assets/img/iconos/facebook.svg);
+}
+#ID_31 li .iconI{
+    content: url(/assets/img/iconos/instagram.svg);
+}
+#ID_31 li .iconTw{
+    content: url(/assets/img/iconos/twitter.svg);
+}
+#ID_31 li .iconT{
+    content: url(/assets/img/iconos/tiktok.svg);
+}
+/*31----------------------------*/
+
+/*333----------------------------*/
+#ID_31 .container-333{
+    width: 30%;
+    height: 100%;
+}
+/*333----------------------------*/
+
+/*32----------------------------*/
+#ID_32{
+    width: 30vw;
+    text-align: center;
+    align-self: center;
+    font-size: 0.6rem;
+}
+#ID_3 figure img{
+    width: 50px;
+}
