@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    color:#392B28;
+}
+.promociones{
+    width:100%;
+    height:100vh;
+    border: solid 1px red;
+    border-radius:50px;
+    padding:10px 20px 10px 20px;
+}
+.cabecera{
+    border: solid 1px red;
+    border-radius:50px;
+    padding-left: 2%;
+}
+.cabecera__titulo h2{
+    color: #fbf2c0;
+
+}
+
+
+
