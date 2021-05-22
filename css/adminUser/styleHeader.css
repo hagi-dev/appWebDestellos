@@ -51,8 +51,8 @@ main{
 /* stylo hover a cada una de los componentes de la lista */
 .cabecera__menu ul li:hover{
 
-    border-top: 1.5px solid #fbf2c0;
-    border-bottom: 1.5px solid #fbf2c0;
+    /* border-top: 1.5px solid #fbf2c0;
+    border-bottom: 1.5px solid #fbf2c0; */
     
 }
 
