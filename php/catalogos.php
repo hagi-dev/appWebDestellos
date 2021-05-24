@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/catalogos/styleHeader.css">
-    <link rel="stylesheet" href="/css/catalogos/styleMain.css">
+    <link rel="stylesheet" href="/appWebDestellos/css/catalogos/styleHeader.css?2.0" media="all"" >
+    <link rel="stylesheet" href="/appWebDestellos/css/catalogos/styleMain.css?2.0" media="all">
     <title>catalogos</title>
 </head>
 <body class="categorias">

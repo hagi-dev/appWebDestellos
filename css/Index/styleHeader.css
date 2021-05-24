@@ -23,7 +23,7 @@ main{
 .cabecera__menu{
     font-family: Helvetica;
     display: flex;
-    width: 55vw;
+    width: 50vw;
     margin: 3vh auto;
     margin-right: 5px;
     align-items: center;
@@ -100,45 +100,31 @@ de la lista deordenada de la parte nebu de la cabecera */
 
 /* stylos parte de login general de la cabecera */
 .cabecera__login{
-    width:15vw;
+    width:20vw;
     font-family: monserrat;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-around;
     align-items: center;
     margin-right: 10px;
     
 }
 
 /* stylo para login parte inicio de secion */
-.cabecera__login-inicio{
-    font-size: 9px;
-    font-family: Helvetica;
-    color: #fbf2c0;
-    background-color: #392B28;
-    width:10vw;
-    height:5vh;
-    padding:1px;
-    border: solid 1.5px #fbf2c0;
-    border-radius: 50px;
-    margin:5px;
-}
 /* stylo para login parte registrarse */
-.cabecera__login-registrarse{
-    font-size: 9px;
+
+.cabecera__login a {
     font-family: Helvetica;
     color: #fbf2c0;
     background-color: #392B28;
-    width:10vw;
-    height:5vh;
-    padding:5px;
     border: solid 1.5px #fbf2c0;
     border-radius: 50px;
-    margin:5px;
-}
-.cabecera__login a {
-    text-align: center;
+    font-size: 10px;
+    display: flex;
+    width: 45%;
+    height: 60%;
     text-decoration: none;
-    padding:4px;
+    justify-content:center;
+    align-items:center;
 } 
 
 .cabecera__login a:hover {

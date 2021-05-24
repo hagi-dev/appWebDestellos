@@ -6,12 +6,12 @@
 .categorias{
     width:100%;
     height:100vh;
-    border: solid 1px red;
+    /* border: solid 1px red; */
     border-radius:50px;
     padding:10px 20px 10px 20px;
 }
 .cabecera{
-    border: solid 1px red;
+    /* border: solid 1px red; */
     height:10%;
     width:100%;
     border-radius:50px;

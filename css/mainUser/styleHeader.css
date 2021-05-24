@@ -6,19 +6,23 @@
 .promociones{
     width:100%;
     height:100vh;
-    border: solid 1px red;
+    border: solid 1px rgb(42, 6, 202);
     border-radius:50px;
     padding:10px 20px 10px 20px;
 }
 .cabecera{
-    border: solid 1px red;
-    border-radius:50px;
+    border: solid 1px rgb(14, 18, 250);
+    border-radius:80px;
     padding-left: 2%;
+}
+
+.cabecera__titulo p{
+    color: #392B28;
+    font-size: 16px;
+
 }
 .cabecera__titulo h2{
     color: #fbf2c0;
+    font-size: 30px;
 
 }
-
-
-

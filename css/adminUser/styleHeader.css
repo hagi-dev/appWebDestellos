@@ -41,7 +41,7 @@ main{
 /* realizamos stylos en cada una que compone la lista */
 .cabecera__menu ul li{
     display: inline-block;
-    font-size: 12px;
+    font-size: 18px;
     margin: 10px 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -51,8 +51,8 @@ main{
 /* stylo hover a cada una de los componentes de la lista */
 .cabecera__menu ul li:hover{
 
-    /* border-top: 1.5px solid #fbf2c0;
-    border-bottom: 1.5px solid #fbf2c0; */
+    border-top: 2px solid #fbf2c0;
+    border-bottom: 2px solid #fbf2c0; */
     
 }
 
@@ -114,3 +114,4 @@ de la lista deordenada de la parte nebu de la cabecera */
 #circulo:hover {
     fill:#8a6b64;
 }
+

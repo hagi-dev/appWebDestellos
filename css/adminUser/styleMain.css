@@ -5,57 +5,60 @@ main{
     display:flex;
     justify-content:space-evenly;
     align-items: center;
-}
-.navegacion{
-  width:14%;
-  height:85vh;  
-  background-color: #392B28;
-  border-radius:10px;
-  border-top-right-radius: 50px;
-  border-bottom-right-radius: 50px;
-}
-.navegacion__circunferencia{
-    width: 65%;
-    height: 16%;
-    background-color:#b18b82;;
-    /* opacity: 40%; */
-    margin-left: 9%;
-    box-shadow: 2px 2px 10px #b18b82;;
-    border-bottom-left-radius: 100%;
-    border-bottom-right-radius: 100%;
-    border-top-left-radius: 100%;
-    border-top-right-radius: 100%;
-}
-.navegacion__categorias{
-    width:100%;
-    height:70%;
-    padding:30%;
-}
-.navegacion__categorias ul{
-
-}
-.navegacion__categorias ul li{
-    list-style: none;
-    margin-bottom:20px;
-}
-
-.navegacion__categorias ul li a {
-    text-decoration:none;
-    color: #fbf2c0;
-}
-
-.navegacion__perfil p{
-    text-align: center;
-}
-
-.contenedor{
-    width:79%;
-    height:89vh;
-    background-color: rgb(79, 79, 153);
+    }
+    .navegacion{
+    width:14%;
+    height:85vh;  
+    background-color: #392B28;
     border-radius:10px;
-}
-.contenedor iframe{
-    border: solid 0px red;
-    width: 100%;
-    height:100%;
-}
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    }
+    .navegacion__circunferencia{
+        width: 62%;
+        height: 16%;
+        background-color:#b18b82;;
+        /* opacity: 40%; */
+        margin-left: 0%;
+        box-shadow: 2px 2px 10px #b18b82;;
+        border-bottom-left-radius: 100%;
+        border-bottom-right-radius: 100%;
+        border-top-left-radius: 100%;
+        border-top-right-radius: 100%;
+    }
+    .navegacion__categorias{
+        width:100%;
+        height:70%;
+        padding:70% 50% 50% 30%;
+    }
+    .navegacion__categorias ul{
+
+    }
+    .navegacion__categorias ul li{
+        list-style: none;
+        margin-bottom:30px;
+    }
+
+    .navegacion__categorias ul li a {
+        text-decoration:none;
+        color: #fbf2c0;
+        font-size: 20px;
+    }
+
+    .navegacion__perfil p{
+        text-align: start;
+        font-size: 25px;
+        margin-left: 30%;
+    }
+
+    .contenedor{
+        width:79%;
+        height:89vh;
+        background-color: rgb(174, 158, 247);
+        border-radius:10px;
+    }
+    .contenedor iframe{
+        border: solid 0px red;
+        width: 100%;
+        height:100%;
+    }
