@@ -28,7 +28,7 @@ main{
     padding-left: 8.5vw;
     padding-right: 8.5vw;
     color:#fbf2c0;
-    font-size:15px;
+    font-size:20px;
     /* border-bottom: 1px double solid red; */
     /* text-decoration: underline;
     text-decoration: underline; */
@@ -79,13 +79,13 @@ main{
 }
 
 .contacto__contenido-mapa p{
-    font-size:12px;
+    font-size:16px;
     text-align:center;
 }
 .contacto__contenido-mapa h3{
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size:14px;
+    font-size:18px;
 }
 .contacto__contenido-resumen{
     width:35vw;
@@ -97,7 +97,7 @@ main{
 
 .contacto__contenido-resumen h3{
     text-align: center;
-    font-size:14px;
+    font-size:19px;
     margin-bottom: 15px;
     margin-top: 15px;
 }

@@ -297,7 +297,7 @@ if ($usuario == false)
            <a class="navegacion-sesion" href="/appWebDestellos/php/login.php?page=logout">Cerrar sesión</a>
        </nav>   
        <section class="contenedor">
-           <iframe src="/appWebDestellos/php/homeUser.php"  class="contenedor__Interfaz"
+           <iframe src="/appWebDestellos/php/homeUser.php" class="contenedor__Interfaz"
            id="contenedor"></iframe>
        </section>
     </main>

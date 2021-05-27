@@ -41,7 +41,7 @@ main{
 /* realizamos stylos en cada una que compone la lista */
 .cabecera__menu ul li{
     display: inline-block;
-    font-size: 12px;
+    font-size: 18px;
     margin: 10px 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -101,7 +101,7 @@ de la lista deordenada de la parte nebu de la cabecera */
 
 /* stylo para login parte inicio de secion */
 .cabecera__login-inicio{
-    font-size: 9px;
+    font-size: 15px;
     font-family: Helvetica;
     color: #fbf2c0;
     background-color: #392B28;
@@ -114,7 +114,7 @@ de la lista deordenada de la parte nebu de la cabecera */
 }
 /* stylo para login parte registrarse */
 .cabecera__login-registrarse{
-    font-size: 9px;
+    font-size: 15px;
     font-family: Helvetica;
     color: #fbf2c0;
     background-color: #392B28;
